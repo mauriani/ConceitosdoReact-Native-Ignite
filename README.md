@@ -1,4 +1,4 @@
-# ConceitosdoReact-Native-Ignite
+# Conceitos do React-Native-Ignite
 
 Esse é o primeiro Chapter I da Trilha React-Native do Ignite da rocketseat.
 
