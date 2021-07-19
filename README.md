@@ -8,6 +8,8 @@ Iniciamos essa jornada criando um App para adicionar, remover e editar tarefas. 
 
 Além disso consegui aprender o conceito de ***shallow copy no javascript e como isso pode ferir o conceito de imutabilidade do react.***
 
+Link Figma - https://www.figma.com/file/Rs4XsSBFWusZxi6qqw97QO/to.do-(Copy)?node-id=10485%3A499
+
 ## ⌨️Instalação
 
 ```tsx
